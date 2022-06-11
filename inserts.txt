@@ -1,0 +1,5 @@
+INSERT INTO Genres (genre)
+VALUES ('Fantastic');
+
+INSERT INTO Books (title, author, year, genre_id)
+VALUES ('Fanta', 'Myself', '1990', '3');
